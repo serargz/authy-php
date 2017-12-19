@@ -29,7 +29,7 @@ class AuthyToken extends AuthyResponse
     /**
      * Check if the response was ok
      *
-     * @return boolean return true if the response code is 200
+     * @return boolean return true if the response code is 200 and token is valid
      */
     public function ok()
     {

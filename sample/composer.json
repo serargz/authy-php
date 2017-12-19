@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "path",
+            "url": "/home/authy-php"
+        }
+    ],
+    "require": {
+        "authy/php": "2.5"
+    }
+}
